@@ -169,7 +169,7 @@
 	body, input, select, textarea {
 		color: #a0a0a1;
 		/* Thanks to Apple.com */
-		font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+		font-family: "SF Pro Display", "SF Pro Icons", "Helvetica", "Helvetica Neue", "Arial", sans-serif;
 		font-size: 15pt;
 		font-weight: 300;
 		letter-spacing: 0.025em;
@@ -201,7 +201,7 @@
 
 	strong, b {
 		color: #111;
-		font-weight: 300;
+		font-weight: 600;
 	}
 
 	em, i {
@@ -214,7 +214,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #111;
-		font-weight: 300;
+		font-weight: 600;
 		letter-spacing: 0.1em;
 		line-height: 1.5;
 		margin: 0 0 1em 0;
@@ -1417,7 +1417,7 @@
 		}
 
 		#header h1 {
-			color: #444;
+			color: #666;
 			display: inline-block;
 			font-size: 1em;
 			line-height: 1;
@@ -1457,7 +1457,7 @@
 						-ms-transition: background-color 0.5s ease;
 						transition: background-color 0.5s ease;
 						border: 0;
-						color: #444;
+						color: #666;
 						display: inline-block;
 						letter-spacing: 0.1em;
 						padding: 0 1.65em;
